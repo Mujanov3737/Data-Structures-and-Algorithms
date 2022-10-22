@@ -5,7 +5,7 @@ The projects for this course centered around four distinct data structures: vect
 
 ## How did you approach the problem? Consider why data structures are important to understand.
 
-Analyzing the capabilities of each data structure was the first step in the process of choosing which would be best suited for the project scenario. No data structure is perfect for every scenario thus it is important to understand when and where to use a structure appropriately. For instance, a hash table may provide constant access time but only if there exists a sufficient algorithm to eliminate collisions. A linked-list may provide constant insertion time but requires linear traversal time to find a particular element in the list. After considering all the options of each structure, the appropriate one could be chosen and utilized in the project scenario.
+Analyzing the capabilities of each data structure was the first step in the process of choosing which would be best suited for the project scenario. No data structure is perfect for every scenario thus it is important to understand when and where to use a structure appropriately. For instance, a hash table may provide constant access time but only if there exists a sufficient hash function to eliminate collisions. A linked-list may provide constant insertion time but requires linear traversal time to find a particular element in the list. After considering all the options of each structure, the appropriate one could be chosen and utilized in the project scenario.
 
 ## How did you overcome any roadblocks you encountered while going through the activities or project?
 
