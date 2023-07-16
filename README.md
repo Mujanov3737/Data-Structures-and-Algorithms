@@ -11,7 +11,7 @@ The other folder in this repository contains 4 .cpp files that each implement a 
 
 ## Importance of data structures
 
-Analyzing the capabilities of each data structure was the first step in the process of choosing which would be best suited for a particular scenario. No data structure is perfect for every scenario thus it is important to understand when and where to use a structure appropriately. For instance, a hash table may provide constant access time but only if there exists a sufficient hash function to eliminate collisions. A linked-list may provide constant insertion time but requires linear traversal time to find a particular element in the list. After considering all the options of each structure, the appropriate one could be chosen and utilized in the project scenario.
+Analyzing the capabilities of each data structure was the first step in the process of choosing which would be best suited for a particular scenario. No data structure is perfect for every scenario thus it is important to understand when and where to use a structure appropriately. For instance, a hash table may provide constant access time but only if there exists a sufficient hash function to eliminate collisions. A linked-list may provide constant insertion time but requires linear traversal time to find a particular element in the list. After considering all the options of each structure, the appropriate one could be chosen and utilized in a project scenario.
 
 ## Overcoming issues
 
