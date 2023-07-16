@@ -7,7 +7,7 @@ This folder contains a solution file and code which simply reads a course list f
 ![dsa2](https://github.com/Mujanov3737/Data-Structures/assets/75598761/ff1c8da4-1b39-4b37-b58f-288d94f7d140)
 
 ## DSA_2 Data Structures
-The other folder in this repository contains 4 .cpp files that each implement a version of various data structures, such as a BST, hash table, linked list, and vector, as well as implement their corresponding member functions for insertion and deletion. The test functions in each of these files rely on a CSVParser file and CSV data file to retrieve data of inventory items but these files are unfortunately unavailable, so testing these implementations is not possible with this repository. However, the implementations of each data structure contain working code which can be implemented with another dataset.
+The other folder in this repository contains 4 .cpp files that each implement a version of various data structures, such as a BST, hash table, linked list, and vector, as well as implement their corresponding member functions for traversal, insertion, and deletion. The test functions in each of these files rely on a CSVParser file and CSV data file to retrieve data of inventory items but these files are unfortunately unavailable, so testing these implementations is not possible with this repository. However, the implementations of each data structure contain working code which can be implemented with another dataset.
 
 ## Importance of data structures
 
