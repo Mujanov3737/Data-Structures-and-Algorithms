@@ -2,6 +2,7 @@
 Included in this repository are two folders that contain applications written in C++ that explore various data structures and algorithms.
 ## DSA_1 Courses List
 This folder contains a solution file and code which simply reads a course list from a text file, parses through the file, sorts the contents, and presents a few options for the user through the console window. The application utilizes a partition and quicksorting to handle the sorting portion and a vector to store the data.
+
 ![dsa1](https://github.com/Mujanov3737/Data-Structures/assets/75598761/c7bb2abe-af5e-4a18-a604-7f5e28165f5b)
 ![dsa2](https://github.com/Mujanov3737/Data-Structures/assets/75598761/ff1c8da4-1b39-4b37-b58f-288d94f7d140)
 
