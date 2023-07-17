@@ -3,8 +3,8 @@ Included in this repository are two folders that contain applications written in
 ## DSA_1 Courses List
 This folder contains a solution file and code which simply reads a course list from a text file, parses through the file, sorts the contents, and presents a few options for the user through the console window. The application utilizes a partition and quicksorting to handle the sorting portion and a vector to store the data.
 
-![dsa1](https://github.com/Mujanov3737/Data-Structures/assets/75598761/c7bb2abe-af5e-4a18-a604-7f5e28165f5b)
-![dsa2](https://github.com/Mujanov3737/Data-Structures/assets/75598761/ff1c8da4-1b39-4b37-b58f-288d94f7d140)
+![dsa1](https://github.com/Mujanov3737/Data-Structures-and-Algorithms/assets/75598761/23bd5428-10e1-4e8f-b531-4f8334113202)
+![dsa2](https://github.com/Mujanov3737/Data-Structures-and-Algorithms/assets/75598761/941ce678-0321-45d9-9e90-05f707e0c44b)
 
 ## DSA_2 Data Structures
 The other folder in this repository contains 4 .cpp files that each implement a version of various data structures, such as a BST, hash table, linked list, and vector, as well as implement their corresponding member functions for traversal, insertion, and deletion. The test functions in each of these files rely on a CSVParser file and CSV data file to retrieve data of inventory items, but these files are unfortunately unavailable, so testing these implementations is not possible with this repository. However, the implementations of each data structure contain working code which can be implemented with another dataset.
